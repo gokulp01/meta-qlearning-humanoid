@@ -1,0 +1,3 @@
+{
+ "humanoid-dir": {"n_train_tasks": 100, "n_eval_tasks": 30, "n_tasks": 130, "randomize_tasks": true, "num_evals": 2, "num_steps_per_task": 400, "num_steps_per_eval": 400, "num_train_steps_per_itr": 4000}
+}

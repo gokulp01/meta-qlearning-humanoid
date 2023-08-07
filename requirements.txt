@@ -1,0 +1,14 @@
+dm_control==1.0.11
+gym==0.26.2
+matplotlib==3.5.3
+mujoco==2.3.3
+mujoco_python_viewer.egg==info
+numpy==1.21.6
+pandas==2.0.1
+psutil==5.9.4
+rlkit==0.2.0
+scikit_learn==1.2.2
+scipy==1.7.3
+tensorflow==2.12.0
+torch==1.13.1
+transforms3d==0.4.1
