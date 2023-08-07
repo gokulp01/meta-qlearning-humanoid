@@ -1,5 +1,5 @@
 # meta-qlearning-humanoid
-Meta QLearning Experiments to optimize robot walking patterns 
+Meta QLearning experiments to optimize robot walking patterns 
 ![out](docs/learn_step.gif)
 
 # Overview:
