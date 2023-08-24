@@ -15,7 +15,10 @@ Test how adaptable the humanoid is by performing:
 This repository contains everything needed to set up the environment and get the simulation up and running. 
 
 ### Clone the repository: 
-`git clone git@github.com:gokulp01/meta-qlearning-humanoid.git`
+```
+git clone git@github.com:gokulp01/meta-qlearning-humanoid.git
+```
+
 Make sure the file structure is as follows:
 ```
 <Your folder>
